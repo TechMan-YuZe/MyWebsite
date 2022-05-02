@@ -1,0 +1,6 @@
+{
+    // 开启/关闭 AutoCorrect
+    "autocorrect.enable": true,
+    // 是否启用 formatOnSave，默认: trueue
+    "autocorrect.formatOnSave": true
+}

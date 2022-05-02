@@ -10,7 +10,7 @@
 
 官网：https://jetbrains.com
 
-中文官网：https://jetbrains.cn
+中文官网：https://www.jetbrains.com/zh-cn/
 
 ```java
 package com.yu.sharedModel;

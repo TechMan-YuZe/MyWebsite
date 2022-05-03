@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'PingFang SC';
+    src: url(../Fonts/PingFang-Regular.ttf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'PingFang SC';
+    src: url(../Fonts/PingFang-Light.ttf);
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: 'PingFang SC';
+    src: url(../Fonts/PingFang-Medium.ttf); 
+    font-weight: 700;
+}
+@font-face {
+    font-family: 'Dorid Sans Fallback';
+    src: url(../Fonts/Roboto-Regular.ttf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'SF Mono SC';
+    src: url(../Fonts/SFMonoSC-Regular.ttf);
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: 'Noto Sans SC';
+    src: url(../Fonts/NotoSansSC-Regular.otf);
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: 'Noto Serif SC';
+    src: url(../Fonts/NotoSerifSC-Regular.otf);
+    font-weight: 100;
+}
+

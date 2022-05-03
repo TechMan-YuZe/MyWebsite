@@ -6,7 +6,7 @@
 
 ### 开发工具
 
-![image-20220503110719304](C:\Users\TechMan-YuZe\AppData\Roaming\Typora\typora-user-images\image-20220503110719304.png)
+行内代码`inline Block`测试
 
 #### JetBrains 全家桶
 
